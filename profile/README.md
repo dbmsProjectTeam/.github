@@ -20,3 +20,11 @@ For run the front-end interface, please see [SqlEditer configuration](https://gi
 Hand Written Test Sqls are in [TestSqls](./TestSqls/test.sql), just copy and paste into Sql Editor without semicolons.
 
 TPCH Sqls are in [TPCH Sqls](https://github.com/dbmsProjectTeam/ComposableDBMS_Calcite/tree/main/data/queries), they are embedded into Sql Editor already.
+
+Credits Claim:
+
+For Velox, all contents of the file [VeloxIn10MinDemo.cpp](https://github.com/dbmsProjectTeam/ComposableDBMS_Velox/blob/dev/velox/exec/tests/VeloxIn10MinDemo.cpp) is written by ourselves. Parts of the file [PlanBuilder.h](https://github.com/dbmsProjectTeam/ComposableDBMS_Velox/blob/dev/velox/exec/tests/utils/PlanBuilder.h) are modified by ourselves.
+
+For Calcite, all of the codes are written by ourselves.
+
+For SqlEditor, all [componets](https://github.com/dbmsProjectTeam/SqlEditor/tree/main/src/components) are achieved by ourselves.
