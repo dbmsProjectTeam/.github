@@ -6,12 +6,12 @@ The project contains 3 parts - Velox, Calcite and Front-End.
 
 #### Velox
 
-For compile and run Velox, please see [velox configuration](../../velox/README.md)
+For compile and run Velox, please see [velox configuration](https://github.com/dbmsProjectTeam/ComposableDBMS_Velox)
 
 #### Calcite
 
-For compile and run Calcite, please see [Calcite configuration](https://github.com/dbmsProjectTeam/ComposableDBMS_Calcite/blob/main/README.md)
+For compile and run Calcite, please see [Calcite configuration](https://github.com/dbmsProjectTeam/ComposableDBMS_Calcite)
 
 #### Front-End
 
-For run the front-end interface, please see [SqlEditer configuration](../../../SqlEditor/README.md)
+For run the front-end interface, please see [SqlEditer configuration](https://github.com/dbmsProjectTeam/SqlEditor)
