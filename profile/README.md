@@ -10,7 +10,7 @@ For compile and run Velox, please see [velox configuration](../../velox/README.m
 
 #### Calcite
 
-For compile and run Calcite, please see [Calcite configuration](../../../ComposableDBMS_Calcite/README.md)
+For compile and run Calcite, please see [Calcite configuration](https://github.com/dbmsProjectTeam/ComposableDBMS_Calcite/blob/main/README.md)
 
 #### Front-End
 
