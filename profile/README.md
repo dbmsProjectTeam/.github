@@ -6,7 +6,7 @@ The project contains 3 parts - Velox, Calcite and Front-End.
 
 #### Velox
 
-For compile and run Velox, please see [velox configuration](https://github.com/dbmsProjectTeam/ComposableDBMS_Velox)
+For compile and run Velox, please see [velox configuration](https://github.com/dbmsProjectTeam/ComposableDBMS_Velox/tree/dev)
 
 #### Calcite
 
