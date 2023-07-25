@@ -15,3 +15,8 @@ For compile and run Calcite, please see [Calcite configuration](https://github.c
 #### Front-End
 
 For run the front-end interface, please see [SqlEditer configuration](https://github.com/dbmsProjectTeam/SqlEditor)
+
+
+Hand Written Test Sqls are in [TestSqls](./TestSqls/test.sql), just copy and paste into Sql Editor without semicolons.
+
+TPCH Sqls are in [TPCH Sqls](https://github.com/dbmsProjectTeam/ComposableDBMS_Calcite/data/queries), they are embedded into Sql Editor already.
